@@ -1,0 +1,16 @@
+.grant {
+    width:96%;
+    margin:0px auto;
+    border: solid #ccc 2px;
+    box-shadow: 0 1px 1px #ccc;         
+}
+.grant td, .grant th {
+    border: 1px solid #ccc;
+    background: #ffffff;
+	padding:2px;
+	text-align:center ;
+}
+.grant th {
+    background-color: #dce9f9;
+    border: 1px solid #ccc;
+}
