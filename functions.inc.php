@@ -1,5 +1,5 @@
 ﻿<?php
-$vocab["tj_name"]               = "经纬楼会议室预定";
+$vocab["tj_name"]               = "会议室预定";
 $vocab["tj_home"]               = "首页";
 $vocab["tj_detail"]               = "会议日程";
 $vocab["tj_booking"]               = "会议预定";
@@ -366,7 +366,7 @@ function output_trailer()
 <footer>
 <div class="container">
   <div class="row">
-	<div style="margin-left:300px ;color:black;">©同济大学学生就业指导中心&nbsp&nbsp&nbsp&nbsp联系电话: 65981173</div>
+	<div style="margin-left:300px ;color:black;">©</div>
 
   </div>
 </div>
